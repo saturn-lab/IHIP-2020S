@@ -8,7 +8,7 @@
 
 **专业**： 电子系
 
-**最喜欢的名言**：Talk is cheap. Show me the code
+**最喜欢的名言**：*Talk is cheap. Show me the code*
 
 
 
