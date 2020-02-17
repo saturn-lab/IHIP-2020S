@@ -13,3 +13,4 @@ Bring Your Laptop to Class.
 |   5      | 选题项目推荐-海拉汽车科技   |  分享    |    林蔚然     |        |  
 |   6      | 学习小结.md 上交至[Study-Memo](../../Study-Memo)    |  实践    |     CZ&TAs     |   最迟至2月21日晚上7点      |
 
+大家注意：勿上传``有版权``的课程参考资料。
